@@ -55,6 +55,6 @@ Correlation Heatmap: Relationships between budget, popularity, and ratings.
 Decision Tree Map: A visual flow of how the AI makes its "Hit" or "Flop" decisions.
 
 👨‍💻 Author
-Gururaj DS,Abhishek S Gowda,Lingaraj GSB,Kruthik Gowda GR
+Gururaj DS,Hemanth A B,Lingaraj GSB,Kruthik Gowda GR
 
 
